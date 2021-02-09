@@ -6,7 +6,7 @@ const app = new Vue({
 	},
 	template: `
 		<div id="app">
-			<app-navbar /><!-- Component from: Src/Components/navbar.vue.js -->
+			<!--app-navbar /><!-- Component from: Src/Components/navbar.vue.js -->
 			<router-view></router-view>
 		</div>
 	`
